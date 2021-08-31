@@ -1,2 +1,5 @@
-# PHP
-Repository used while learning PHP.
+## Learning PHP
+
+# This repository will be used to learn PHP.
+
+
